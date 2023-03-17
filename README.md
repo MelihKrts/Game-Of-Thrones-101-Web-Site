@@ -5,8 +5,15 @@ The goal with Game Of Thrones 101 is to contain preliminary information about th
 
 Kaynakça / References
 
+
 👉 https://gameofthrones.fandom.com/wiki/Game_of_Thrones_Wiki
 
 👉 https://gameofthrones.fandom.com/tr/wiki/Gameofthrones_Wiki
 
 👉 https://awoiaf.westeros.org/index.php/Main_Page
+
+
+Live view
+
+👉 https://gameofthrones-101.netlify.app/
+
